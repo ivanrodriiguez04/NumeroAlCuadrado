@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\bin\Debug\net6.0\NumeroAlCuadrado.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\bin\Debug\net6.0\NumeroAlCuadrado.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\bin\Debug\net6.0\NumeroAlCuadrado.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\bin\Debug\net6.0\NumeroAlCuadrado.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\bin\Debug\net6.0\NumeroAlCuadrado.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\NumeroAlCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\NumeroAlCuadrado.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\NumeroAlCuadrado.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\NumeroAlCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\NumeroAlCuadrado.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\refint\NumeroAlCuadrado.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\NumeroAlCuadrado.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\NumeroAlCuadrado.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\NumeroAlCuadrado\obj\Debug\net6.0\ref\NumeroAlCuadrado.dll
